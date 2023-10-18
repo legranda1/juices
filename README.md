@@ -11,4 +11,7 @@ solo buena vibra en munich malgenio fuera
  
  Listo para el Sabado? sdfsdfsdf
 
+#lucas 
+listo pa darle como a porton sin timbre
+
 
