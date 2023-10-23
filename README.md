@@ -15,7 +15,7 @@ The [Hoover Dam](https://en.wikipedia.org/wiki/Hoover_Dam) is not only an engine
 | TOPIC                 | DESCRIPTION                           |
 |:----------------------|:--------------------------------------|
 | **Type of dam**       | Concrete arch-gravity dam             |
-| **Height**            | 221.40 m                              |
+| **Height**            | 221,40 m                              |
 | **Length**            | 379 m                                 |
 | **Width (crest)**     | 14 m                                  |
 | **Width (base)**      | 200 m                                 |
