@@ -1,7 +1,7 @@
 # One of the biggest Dams in the world
 ******
 ## Hoover Dam
-***
+
 ![ImgName](https://graylinelasvegas.com/wp-content/uploads/2023/02/view-of-hoover-dam.jpg)
 
 The Hoover Dam is a massive concrete arch-gravity dam located on the border between the U.S. states of Nevada and Arizona in the Black Canyon of the Colorado River. Its construction was the result of a massive effort involving thousands of workers and *cost over 100 lives.* [[1]](https://graylinelasvegas.com/8-powerful-facts-you-didnt-know-about-hoover-dam/)
@@ -12,7 +12,7 @@ One of its key functions is the creation of Lake Mead, which is one of the large
 
 The Hoover Dam is not only an engineering marvel but also a significant historical and cultural landmark, attracting **millions of tourists annually.**
 
-Here are some key numerical facts about the Hoover Dam:
+*  Here are some key facts about the Hoover Dam:
 
 |       TOPIC       |             DESCRIPTION              |
 |:-----------------:|:------------------------------------:|
